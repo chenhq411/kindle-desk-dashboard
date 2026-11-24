@@ -1,0 +1,13 @@
+{
+  "collect_seconds": 15,
+  "refresh_seconds": 60,
+  "codex_seconds": 300,
+  "automatic_refresh": true,
+  "page": "work",
+  "full_refresh_every": 15,
+  "font_path": "C:\\Windows\\Fonts\\msyh.ttc",
+  "codex_executable": "",
+  "management_port": 8766,
+  "device_enabled": false,
+  "task_page": 0
+}

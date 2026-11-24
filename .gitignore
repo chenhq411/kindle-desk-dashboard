@@ -1,0 +1,27 @@
+# Private runtime data; only the empty directory marker is public.
+data/*
+!data/.gitkeep
+logs/
+backups/
+config/*.json
+!config/*.example.json
+docs/evidence/
+research/
+packages/
+drivers/
+deployment/
+release/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.pem
+*.key
+*.sqlite*
+*.db
+*.log
+known_hosts*
+kindle_ed25519*
+dist/
+build/
